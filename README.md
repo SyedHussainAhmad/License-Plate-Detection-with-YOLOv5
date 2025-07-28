@@ -244,4 +244,11 @@ Please ensure compliance with respective licenses when using this code.
 
 ---
 
-For questions or support, please open an issue in the repository.
+## 👤 Author
+
+**Syed Hussain Ahmad**
+- GitHub: [@SyedHussainAhmad](https://github.com/SyedHussainAhmad)
+- LinkedIn: [Syed Hussain Ahmad](https://www.linkedin.com/in/syedhussainahmad/)
+
+---
+⭐ Star this repository if you found it helpful!
