@@ -1,6 +1,3 @@
-torch>=1.7
-opencv-python
-matplotlib
-easyocr
-numpy
-Pillow
+version https://git-lfs.github.com/spec/v1
+oid sha256:98a91c54a82713603f047b0a53e6966833492d5f9f1704a3a60d0ca8e84399f3
+size 63
